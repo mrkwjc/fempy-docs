@@ -1,1 +1,1 @@
-## This is *fempy* documentation. Go to [http://geotech.p.lodz.pl:5080/fempy](http://geotech.p.lodz.pl:5080/fempy/)
+## For *fempy* documentation go [here](http://geotech.p.lodz.pl:5080/fempy/).
