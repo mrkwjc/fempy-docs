@@ -3,7 +3,7 @@ title: fempy
 description: Finite element method in python
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://fempy.org"
+url: "https://fempy.org"
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
 , "docs/tests/"
