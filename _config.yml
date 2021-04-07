@@ -44,7 +44,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "fempy on GitHub":
+  "Fempy on GitHub":
     - "//github.com/mrkwjc/fempy"
 
 # Makes Aux links open in a new tab. Default is false
@@ -91,7 +91,8 @@ plugins:
 kramdown:
   syntax_highlighter_opts:
     block:
-      line_numbers: false
+      line_numbers: true
+      default_lang: python
 
 compress_html:
   clippings: all
@@ -100,5 +101,5 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
-  # ignore:
-  #   envs: all
+  ignore:
+    envs: all

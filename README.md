@@ -1,1 +1,3 @@
-## For *fempy* documentation go [here](http://geotech.p.lodz.pl:5080/fempy/).
+Documentation project for [fempy](http://github.com/mrkwjc/fempy) package. 
+
+## See [fempy documentation](https://fempy.org)

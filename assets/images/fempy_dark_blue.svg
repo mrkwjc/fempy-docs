@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="192.56248mm"
@@ -14,31 +13,9 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="fempy_transparent.svg">
+   sodipodi:docname="fempy.svg">
   <defs
-     id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1893">
-      <stop
-         style="stop-color:#f5f6fa;stop-opacity:1;"
-         offset="0"
-         id="stop1889" />
-      <stop
-         style="stop-color:#f5f6fa;stop-opacity:0;"
-         offset="1"
-         id="stop1891" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1893"
-       id="linearGradient1895"
-       x1="216.94609"
-       y1="172.94044"
-       x2="377.68556"
-       y2="172.94044"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -82,49 +59,64 @@
      transform="translate(-211.64654,-128.78671)">
     <g
        id="g40"
-       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)" />
+       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)">
+</g>
     <g
        id="g42"
-       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)" />
+       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)">
+</g>
     <g
        id="g44"
-       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)" />
+       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)">
+</g>
     <g
        id="g46"
-       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)" />
+       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)">
+</g>
     <g
        id="g48"
-       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)" />
+       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)">
+</g>
     <g
        id="g50"
-       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)" />
+       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)">
+</g>
     <g
        id="g52"
-       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)" />
+       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)">
+</g>
     <g
        id="g54"
-       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)" />
+       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)">
+</g>
     <g
        id="g56"
-       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)" />
+       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)">
+</g>
     <g
        id="g58"
-       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)" />
+       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)">
+</g>
     <g
        id="g60"
-       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)" />
+       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)">
+</g>
     <g
        id="g62"
-       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)" />
+       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)">
+</g>
     <g
        id="g64"
-       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)" />
+       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)">
+</g>
     <g
        id="g66"
-       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)" />
+       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)">
+</g>
     <g
        id="g68"
-       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)" />
+       transform="matrix(0.26458333,0,0,0.26458333,38.099872,80.433202)">
+</g>
     <g
        id="g2054"
        transform="matrix(0.35277777,0,0,0.35277777,178.38715,48.42131)"
@@ -9339,7 +9331,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:69.1444px;line-height:1.25;font-family:'CMU Sans Serif Demi Condensed';-inkscape-font-specification:'CMU Sans Serif Demi Condensed, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.5;stroke:#00000f;stroke-width:0.708;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:69.1444px;line-height:1.25;font-family:'CMU Sans Serif Demi Condensed';-inkscape-font-specification:'CMU Sans Serif Demi Condensed, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00557f;fill-opacity:1;stroke:#00000f;stroke-width:0.708;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="215.57823"
        y="191.17188"
        id="text79-3"
@@ -9348,6 +9340,6 @@
          id="tspan77-4"
          x="215.57823"
          y="191.17188"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:69.1444px;font-family:'CMU Sans Serif Demi Condensed';-inkscape-font-specification:'CMU Sans Serif Demi Condensed, Bold';fill:#000000;fill-opacity:0.5;stroke:#00000f;stroke-width:0.708;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;">fempy</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:69.1444px;font-family:'CMU Sans Serif Demi Condensed';-inkscape-font-specification:'CMU Sans Serif Demi Condensed, Bold';fill:#00557f;fill-opacity:1;stroke:#00000f;stroke-width:0.708;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">fempy</tspan></text>
   </g>
 </svg>
