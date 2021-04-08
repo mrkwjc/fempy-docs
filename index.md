@@ -1,20 +1,26 @@
 ---
 title: Home
 nav_order: 0
+# nav_exclude: true
+layout: page
+math: mathjax
 last_modified_date: now
 ---
 # Fempy - finite element method in python
+<!--[Installation](docs/start.html#installation){: .btn .btn-green}
+[Examples](docs/start.html#examples){: .btn .btn-green}
+[API docs](docs/start.html#examples){: .btn .btn-green}-->
 
-Fempy is a free, open source python package for solving systems of partial differential equations (PDEs) by means of finite element method (FEM). Most important features are:
+Fempy is an open-source, pure-python and cross-platform package for solving systems of partial differential equations using finite element method. It provides tools for dealing with discretized domains, fields defined on these domains, weak forms and linear, non-linear and time dependent solvers. Models can be created, solved and analysed without leaving the Python console, while still having access to graphical preview.
 
-* FEM models can be created, solved and analyzed without leaving python console,
-* meshes are created and the results are previewed by means of [gmsh](http://gmsh.info) software,
-* powerful indexing and manipulation capabilities for discretized domains,
-* experimental CUDA support.
+### Instant setup
+```
+pip install -U fempy
+```
 
-Minimal example:
+### Minimal example
 
-~~~ python
+``` python
 from fempy.geometry import Rectangle
 from fempy.models.elastic import PlaneStrain
 
@@ -26,8 +32,5 @@ m.bcs['bottom'] = True
 m.p['top'] = -20.
 m.solve()
 m.preview('all')
-~~~
+```
 [Preview](assets/images/home_example.png){: .btn .btn-green}
-
-<!-- For fempy documentation go [here](http://geotech.p.lodz.pl:5080/fempy/). -->
-<!-- ![fempy](/assets/images/fempy.svg) -->
