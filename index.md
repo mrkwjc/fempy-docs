@@ -13,10 +13,10 @@ last_modified_date: now
 
 Fempy is an open-source, pure-python and cross-platform package for solving systems of partial differential equations using finite element method. It provides tools for dealing with discretized domains, fields defined on these domains, weak forms and linear, non-linear and time dependent solvers. Models can be created, solved and analysed without leaving the Python console, while still having access to graphical preview.
 
-### Instant setup
+<!--### Instant setup
 ```
 pip install -U fempy
-```
+```-->
 
 ### Minimal example
 

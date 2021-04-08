@@ -1,11 +1,11 @@
 ---
 title: Getting started
 permalink: /start
+nav_order: 1
+nav_exclude: true
 layout: page
 math: mathjax
 last_modified_date: now
-nav_order: 1
-# nav_exclude: true
 ---
 
 # Getting started
