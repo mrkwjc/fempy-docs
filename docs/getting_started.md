@@ -1,6 +1,6 @@
 ---
 title: Getting started
-permalink: /start
+permalink: /getting_started
 nav_order: 1
 nav_exclude: true
 layout: page
