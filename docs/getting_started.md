@@ -24,7 +24,7 @@ The easiest way to install fempy is to use the `pip` command:
 pip install -U fempy
 ```
 
-This will install latest fempy release and all the requirements, which are currently: [numpy](https://numpy.org), [scipy](https://scipy.org), [gmsh](https://gmsh.info) and [networkx](https://networkx.org). Pip can be used also to install the development version of fempy. If you have git installed this can be done with:
+This will install the latest fempy release and all its requirements, which are currently: [numpy](https://numpy.org), [scipy](https://scipy.org), [gmsh](https://gmsh.info) and [networkx](https://networkx.org). Pip can be used also to install the development version of fempy. If you have git installed this can be done with:
 
 ```
 pip install -U git+https://github.com/mrkwjc/fempy
